@@ -8,17 +8,18 @@ from sqlalchemy import create_engine, func
 from sqlalchemy import Column, Integer, String, Float
 from flask import Flask, jsonify, render_template
 from sqlalchemy.ext.declarative import declarative_base
-# app = Flask(__name__)
-
+# from sympy import Le
+app = Flask(__name__)
 Base = declarative_base()
+# Base = automap_base()
 connection_string = "postgres:taunus48@localhost:5432/football_db"
 engine = create_engine(f'postgresql://{connection_string}')
-
+# Base = automap_base()
 Base.metadata.create_all(engine)
 
 session = Session(bind=engine)
 # Base.classes.keys()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 class Transfers(Base):
     __tablename__ = 'transfers'
@@ -55,13 +56,39 @@ class Locations(Base):
 @app.route("/")
 def from_coordinates():
 
+    # trans = []
+    # selection=[Transfers.season,Transfers.league_from, Leagues.league_name,Leagues.country,Locations.country,Locations.latitude,Locations.longitude]
+    # results = session.query(*selection).filter(
+    #     Transfers.league_from == Leagues.league_name).filter(
+    #     Leagues.country == Locations.country).filter(
+    #     Transfers.season == "2010-2011"
+    #  ).all()
 
-    results = session.query(Transfers.name)
-    for result in results:
-         print(result.name)
-    session.close()
-    players = list(np.ravel(results))
-    return jsonify(players)
+    # for longitude,latitude in results:
+    #     trans_dict ={}
+    #     trans_dict["lat"] = latitude
+    #     trans_dict["lon"] = longitude
+
+    #     trans.append(trans_dict)
+    #     print(latitude,longitude)
+
+    # return jsonify(trans)
+
+
+     trans = []
+     results = session.query(Transfers).all()
+     session.close()
+     for name in results:
+         trans_dict ={}
+         trans_dict["name"] = name
+         # trans_dict["team_from"] = team_from
+
+         trans.append(trans_dict)
+         print(trans)
+
+     return jsonify(trans)
+
+
 
     # books=engine.execute("SELECT * FROM transfers")
     # return render_template(".../html/transfers.html", books=books)
@@ -82,6 +109,13 @@ def from_coordinates():
     # WHERE name= 'Neymar'""")
     # transfers_from = pd.read_sql_query(locations_from, con=engine)
     # return transfers_from 
+
+
+
+    # name = "Peleke"
+    # location = "Tien Shan"
+
+    # return f"My name is {name}, and I live in {location}."
 
 if __name__ == '__main__':
     app.run(debug=True)
