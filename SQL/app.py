@@ -42,36 +42,43 @@ class Locations(Base):
     latitude = Column(Integer)
     longitude = Column(Integer)
 
-# transfers_b = Base.classes.transfers
-# locations_b = Base.classes.locations
-# leagues_b = Base.classes.league_countries
+user_input = input("What season do you want to check? ")
 
-
+# @app.route("/")
+# def home():
+#     return render_template("index.html")
 
 @app.route("/")
 def from_coordinates():
     session = Session(engine)
 
-    user_input = input("What season do you want to check? ")
-    results = session.query(Locations.latitude,Locations.longitude).\
+    
+    results = session.query(Locations.latitude,Locations.longitude,Locations.country).\
         join(Leagues, Leagues.country == Locations.country).\
             join(Transfers, Transfers.league_from == Leagues.league_name).\
                 filter(Transfers.season == user_input)
     session.close()
     res = []
-    for latitude, longitude in results:
+    for latitude, longitude, country in results:
         dict1 = {}
-        dict1["coordinates"] = latitude, longitude
+        dict1["coordinates"] = longitude, latitude
         dict1["type"] = 'Point'
-        # dict1["long"] = longitude
+        dict1["country"] = country
 
         res.append(dict1)
     trans_json = open("myfile.geojson", "w")
     json.dump(res, trans_json, indent=6)
-    trans_json.close()
     
-    return render_template    
+    json_json = open("samples.json", "w")
+    json.dump(res, json_json, indent=6)
+    trans_json.close()
+    return jsonify(res)
+    
 
+
+@app.route("/transfer-map")
+def transfer_map():
+    return render_template("transfer.html")
 
 
     # results = session.query(Transfers).filter_by(eason="Neymar")

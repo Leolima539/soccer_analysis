@@ -10,7 +10,7 @@ var myMap = L.map("map", {
   }).addTo(myMap);
   
   // Use this link to get the GeoJSON data.
-  var link = "myfile.geojson";
+  var link = "/transfers";
   
   // Getting our GeoJSON data
   d3.json(link).then(function(data) {
