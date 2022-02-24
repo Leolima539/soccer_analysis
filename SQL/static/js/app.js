@@ -1,30 +1,16 @@
-// function buildMetadata(sample) {
-//   d3.json("samples.json").then((data) => {
-//     var metadata= data.metadata;
-//     var resultsarray= metadata.filter(sampleobject => 
-//       sampleobject.country == sample);
-//     var result= resultsarray[0]
-//     var panel = d3.select("#sample-metadata");
-//     panel.html("");
-//     Object.entries(result).forEach(([key, value]) => {
-//       panel.append("h6").text(`${key}: ${value}`);
-//     });
 
-
-//   });
-// }
 // function chartBuild(sample) {
-// d3.json("samples.json").then(data => {
+// d3.json("samplesm.json").then(data => {
 //   console.log(data);
-//   let samples = data.country;
+//   let samples = data.samples;
 
-//   let resultArray = samples.filter(sampleObj => sampleObj.country == sample);
+//   let resultArray = samples.filter(sampleObj => sampleObj.id == sample);
 //   console.log("resultArray: " + resultArray);
 //   let result = resultArray[0];
 
-//   let otu_ids = result.country;
-//   let sample_values = result.country.count;
-//   let otu_labels = result.country;
+//   let otu_ids = result.otu_ids;
+//   let sample_values = result.sample_values;
+//   let otu_labels = result.otu_labels;
 
 //   // Bar Chart
 // // Selecting only the OTU to be shown
@@ -76,19 +62,31 @@
 
 //Initialize function
 function init() {
-  let dropdown = $('#locality-dropdown');
-
-  dropdown.empty();
+    d3.json("seasons.json").then(function(data) {
+      let names = data.seasons;
+      //grab a reference to the dropdown select
+      let selector = d3.select("#selDataset");
   
-  dropdown.append('<option selected="true" disabled>Choose State/Province</option>');
-  dropdown.prop('selectedIndex', 0);
+      //use the list of sample names to populate the select options
+      names.forEach(rob => {
+        selector
+          .append("option")
+          .text(rob)
+          .property("value", rob);
+      });
   
-  const url = 'samples.json';
+      //use the first sample from list to build the initial plots
+      let firstSample = names[0];
+      chartBuild(firstSample);
+      // buildMetadata(firstSample);
+    });
+  }
+  //function to change charts when a new sample is selected
+  function optionChanged(newSample) {
+    console.log(`sample changed to ${newSample}`);
+    //fetch new data and build charts
+    chartBuild(newSample);
+    // buildMetadata(newSample);
+  }
   
-  // Populate dropdown with list of provinces
-  $.getJSON(url, function (data) {
-    $.each(data, function (key, entry) {
-      dropdown.append($('<option></option>').attr('value', entry.abbreviation).text(entry.name));
-    })
-  });}
-init();
+  init();

@@ -1,19 +1,13 @@
 [
       {
             "coordinates": [
-                  "-3.435973",
-                  "55.378051"
+                  "12.56738",
+                  "41.87194"
             ],
             "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
+            "country": "Italy",
+            "transfer_fee": 42000000,
+            "name": "Javier Pastore"
       },
       {
             "coordinates": [
@@ -21,7 +15,29 @@
                   "40.463667"
             ],
             "type": "Point",
-            "country": "Spain"
+            "country": "Spain",
+            "transfer_fee": 40000000,
+            "name": "Sergio Ag\u00fcero"
+      },
+      {
+            "coordinates": [
+                  "-8.224454",
+                  "39.399871999999995"
+            ],
+            "type": "Point",
+            "country": "Portugal",
+            "transfer_fee": 40000000,
+            "name": "Falcao"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 34000000,
+            "name": "Cesc F\u00e0bregas"
       },
       {
             "coordinates": [
@@ -29,7 +45,9 @@
                   "51.165690999999995"
             ],
             "type": "Point",
-            "country": "Germany"
+            "country": "Germany",
+            "transfer_fee": 30000000,
+            "name": "Manuel Neuer"
       },
       {
             "coordinates": [
@@ -37,63 +55,9 @@
                   "39.399871999999995"
             ],
             "type": "Point",
-            "country": "Portugal"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "5.291266",
-                  "52.132633"
-            ],
-            "type": "Point",
-            "country": "Netherlands"
-      },
-      {
-            "coordinates": [
-                  "-8.224454",
-                  "39.399871999999995"
-            ],
-            "type": "Point",
-            "country": "Portugal"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
+            "country": "Portugal",
+            "transfer_fee": 30000000,
+            "name": "F\u00e1bio Coentr\u00e3o"
       },
       {
             "coordinates": [
@@ -101,23 +65,69 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
+            "country": "England",
+            "transfer_fee": 27500000,
+            "name": "Samir Nasri"
       },
       {
             "coordinates": [
-                  "-8.224454",
-                  "39.399871999999995"
+                  "12.56738",
+                  "41.87194"
             ],
             "type": "Point",
-            "country": "Portugal"
+            "country": "Italy",
+            "transfer_fee": 27000000,
+            "name": "Samuel Eto'o"
       },
       {
             "coordinates": [
-                  "-8.224454",
-                  "39.399871999999995"
+                  "-3.7492199999999998",
+                  "40.463667"
             ],
             "type": "Point",
-            "country": "Portugal"
+            "country": "Spain",
+            "transfer_fee": 26700000,
+            "name": "Juan Mata"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 26000000,
+            "name": "Alexis S\u00e1nchez"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 25000000,
+            "name": "David de Gea"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 24000000,
+            "name": "Zlatan Ibrahimovic"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 23000000,
+            "name": "Santi Cazorla"
       },
       {
             "coordinates": [
@@ -125,7 +135,9 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
+            "country": "England",
+            "transfer_fee": 22800000,
+            "name": "Stewart Downing"
       },
       {
             "coordinates": [
@@ -133,39 +145,19 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
+            "country": "England",
+            "transfer_fee": 19300000,
+            "name": "Phil Jones"
       },
       {
             "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
+                  "105.31875600000001",
+                  "61.52401"
             ],
             "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
+            "country": "Russia",
+            "transfer_fee": 19000000,
+            "name": "Bal\u00e1zs Dzsudzs\u00e1k"
       },
       {
             "coordinates": [
@@ -173,31 +165,9 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
+            "country": "England",
+            "transfer_fee": 18000000,
+            "name": "Ashley Young"
       },
       {
             "coordinates": [
@@ -205,119 +175,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-8.224454",
-                  "39.399871999999995"
-            ],
-            "type": "Point",
-            "country": "Portugal"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 18000000,
+            "name": "G\u00f6khan Inler"
       },
       {
             "coordinates": [
@@ -325,159 +185,9 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-8.224454",
-                  "39.399871999999995"
-            ],
-            "type": "Point",
-            "country": "Portugal"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "138.252924",
-                  "36.204824"
-            ],
-            "type": "Point",
-            "country": "Japan"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-8.224454",
-                  "39.399871999999995"
-            ],
-            "type": "Point",
-            "country": "Portugal"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "-8.224454",
-                  "39.399871999999995"
-            ],
-            "type": "Point",
-            "country": "Portugal"
+            "country": "England",
+            "transfer_fee": 18000000,
+            "name": "Jordan Henderson"
       },
       {
             "coordinates": [
@@ -485,15 +195,19 @@
                   "-38.416097"
             ],
             "type": "Point",
-            "country": "Argentina"
+            "country": "Argentina",
+            "transfer_fee": 17000000,
+            "name": "\u00c9rik Lamela"
       },
       {
             "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
+                  "-3.7492199999999998",
+                  "40.463667"
             ],
             "type": "Point",
-            "country": "Germany"
+            "country": "Spain",
+            "transfer_fee": 16000000,
+            "name": "Daniel Osvaldo"
       },
       {
             "coordinates": [
@@ -501,39 +215,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "35.243322",
-                  "38.963745"
-            ],
-            "type": "Point",
-            "country": "Turkey"
+            "country": "Italy",
+            "transfer_fee": 15500000,
+            "name": "Alessandro Matri"
       },
       {
             "coordinates": [
@@ -541,39 +225,19 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 15500000,
+            "name": "Stephan El Shaarawy"
       },
       {
             "coordinates": [
-                  "-3.435973",
-                  "55.378051"
+                  "12.56738",
+                  "41.87194"
             ],
             "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
+            "country": "Italy",
+            "transfer_fee": 15000000,
+            "name": "Mirko Vucinic"
       },
       {
             "coordinates": [
@@ -581,7 +245,9 @@
                   "50.503887"
             ],
             "type": "Point",
-            "country": "Belgium"
+            "country": "Belgium",
+            "transfer_fee": 15000000,
+            "name": "Romelu Lukaku"
       },
       {
             "coordinates": [
@@ -589,15 +255,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
+            "country": "Italy",
+            "transfer_fee": 15000000,
+            "name": "Domenico Criscito"
       },
       {
             "coordinates": [
@@ -605,39 +265,69 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
+            "country": "England",
+            "transfer_fee": 15000000,
+            "name": "Yuri Zhirkov"
       },
       {
             "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
+                  "5.291266",
+                  "52.132633"
             ],
             "type": "Point",
-            "country": "Spain"
+            "country": "Netherlands",
+            "transfer_fee": 14000000,
+            "name": "Bal\u00e1zs Dzsudzs\u00e1k"
       },
       {
             "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
+                  "-3.435973",
+                  "55.378051"
             ],
             "type": "Point",
-            "country": "Germany"
+            "country": "England",
+            "transfer_fee": 14000000,
+            "name": "Christopher Samba"
       },
       {
             "coordinates": [
-                  "12.56738",
-                  "41.87194"
+                  "-3.435973",
+                  "55.378051"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "England",
+            "transfer_fee": 13800000,
+            "name": "Alex Oxlade-Chamberlain"
       },
       {
             "coordinates": [
-                  "-102.552784",
-                  "23.634501"
+                  "-3.435973",
+                  "55.378051"
             ],
             "type": "Point",
-            "country": "Mexico"
+            "country": "England",
+            "transfer_fee": 13500000,
+            "name": "Ra\u00fal Meireles"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 13500000,
+            "name": "J\u00e9r\u00f4me Boateng"
+      },
+      {
+            "coordinates": [
+                  "-8.224454",
+                  "39.399871999999995"
+            ],
+            "type": "Point",
+            "country": "Portugal",
+            "transfer_fee": 13500000,
+            "name": "Pizzi"
       },
       {
             "coordinates": [
@@ -645,367 +335,9 @@
                   "-38.416097"
             ],
             "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "4.469936",
-                  "50.503887"
-            ],
-            "type": "Point",
-            "country": "Belgium"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "15.22",
-                  "45.1"
-            ],
-            "type": "Point",
-            "country": "Croatia"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "5.291266",
-                  "52.132633"
-            ],
-            "type": "Point",
-            "country": "Netherlands"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "5.291266",
-                  "52.132633"
-            ],
-            "type": "Point",
-            "country": "Netherlands"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "24.96676",
-                  "45.943160999999996"
-            ],
-            "type": "Point",
-            "country": "Romania"
-      },
-      {
-            "coordinates": [
-                  "53.847818000000004",
-                  "23.424076"
-            ],
-            "type": "Point",
-            "country": "UAE"
-      },
-      {
-            "coordinates": [
-                  "15.472961999999999",
-                  "49.817492"
-            ],
-            "type": "Point",
-            "country": "Czech Republic"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
+            "country": "Argentina",
+            "transfer_fee": 13500000,
+            "name": "Eduardo Vargas"
       },
       {
             "coordinates": [
@@ -1013,7 +345,9 @@
                   "38.963745"
             ],
             "type": "Point",
-            "country": "Turkey"
+            "country": "Turkey",
+            "transfer_fee": 13000000,
+            "name": "Arda Turan"
       },
       {
             "coordinates": [
@@ -1021,167 +355,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "138.252924",
-                  "36.204824"
-            ],
-            "type": "Point",
-            "country": "Japan"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "5.291266",
-                  "52.132633"
-            ],
-            "type": "Point",
-            "country": "Netherlands"
-      },
-      {
-            "coordinates": [
-                  "15.22",
-                  "45.1"
-            ],
-            "type": "Point",
-            "country": "Croatia"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "24.96676",
-                  "45.943160999999996"
-            ],
-            "type": "Point",
-            "country": "Romania"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "8.468946",
-                  "60.472024"
-            ],
-            "type": "Point",
-            "country": "Norway"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
+            "country": "Italy",
+            "transfer_fee": 13000000,
+            "name": "Danilo"
       },
       {
             "coordinates": [
@@ -1189,15 +365,9 @@
                   "48.379433"
             ],
             "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
+            "country": "Ukraine",
+            "transfer_fee": 12900000,
+            "name": "Roman Eremenko"
       },
       {
             "coordinates": [
@@ -1205,7 +375,579 @@
                   "51.165690999999995"
             ],
             "type": "Point",
-            "country": "Germany"
+            "country": "Germany",
+            "transfer_fee": 12500000,
+            "name": "Arturo Vidal"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 12000000,
+            "name": "Edinson Cavani"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 12000000,
+            "name": "Gervinho"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 12000000,
+            "name": "Mikel Arteta"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 12000000,
+            "name": "Bojan Krkic"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 12000000,
+            "name": "Papiss Demba Ciss\u00e9"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 12000000,
+            "name": "Bryan Ru\u00edz"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 12000000,
+            "name": "Stefan Savic"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 11500000,
+            "name": "Thiago Motta"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 11300000,
+            "name": "Per Mertesacker"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 11300000,
+            "name": "Peter Crouch"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 11000000,
+            "name": "J\u00e9r\u00e9my Toulalan"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 11000000,
+            "name": "K\u00e9vin Gameiro"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 11000000,
+            "name": "Miralem Pjanic"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 10800000,
+            "name": "Charles N'Zogbia"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 10500000,
+            "name": "Fabio Quagliarella"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 10500000,
+            "name": "Ricardo \u00c1lvarez"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 10000000,
+            "name": "Nuri Sahin"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 10000000,
+            "name": "Marco Borriello"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 10000000,
+            "name": "Moussa Sow"
+      },
+      {
+            "coordinates": [
+                  "105.31875600000001",
+                  "61.52401"
+            ],
+            "type": "Point",
+            "country": "Russia",
+            "transfer_fee": 10000000,
+            "name": "V\u00e1gner Love"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 10000000,
+            "name": "Emmanuel Emenike"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 10000000,
+            "name": "Bernd Leno"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 10000000,
+            "name": "Rapha\u00ebl Varane"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 9930000,
+            "name": "Stephan Lichtsteiner"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 9600000,
+            "name": "Alex Sandro"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 9000000,
+            "name": "Wilson Palacios"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 9000000,
+            "name": "Eljero Elia"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 9000000,
+            "name": "Christian Tr\u00e4sch"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 9000000,
+            "name": "Axel Witsel"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 9000000,
+            "name": "Cristi\u00e1n Zapata"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 9000000,
+            "name": "Dimitri Payet"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 9000000,
+            "name": "S\u00e9bastien Frey"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 9000000,
+            "name": "Roman Pavlyuchenko"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 9000000,
+            "name": "Emmanuel Emenike"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 9000000,
+            "name": "Brown Ideye"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 9000000,
+            "name": "Blerim Dzemaili"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 9000000,
+            "name": "Connor Wickham"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 9000000,
+            "name": "Miguel Britos"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 8950000,
+            "name": "Thibaut Courtois"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 8850000,
+            "name": "Elias"
+      },
+      {
+            "coordinates": [
+                  "-8.224454",
+                  "39.399871999999995"
+            ],
+            "type": "Point",
+            "country": "Portugal",
+            "transfer_fee": 8600000,
+            "name": "Roberto"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 8500000,
+            "name": "Andr\u00e9 Sch\u00fcrrle"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 8500000,
+            "name": "Emiliano Viviano"
+      },
+      {
+            "coordinates": [
+                  "138.252924",
+                  "36.204824"
+            ],
+            "type": "Point",
+            "country": "Japan",
+            "transfer_fee": 8500000,
+            "name": "Ricardo Rodr\u00edguez"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 8500000,
+            "name": "Dries Mertens"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 8400000,
+            "name": "Gary Cahill"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 8400000,
+            "name": "Charlie Adam"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 8200000,
+            "name": "Dar\u00edo Conca"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 8000000,
+            "name": "Alberto Gilardino"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 8000000,
+            "name": "J\u00e9r\u00e9my M\u00e9nez"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 8000000,
+            "name": "Kevin De Bruyne"
+      },
+      {
+            "coordinates": [
+                  "105.31875600000001",
+                  "61.52401"
+            ],
+            "type": "Point",
+            "country": "Russia",
+            "transfer_fee": 8000000,
+            "name": "Christian Noboa"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 8000000,
+            "name": "V\u00edctor Ruiz"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 8000000,
+            "name": "Blaise Matuidi"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 8000000,
+            "name": "Jos\u00e9 Enrique"
+      },
+      {
+            "coordinates": [
+                  "-8.224454",
+                  "39.399871999999995"
+            ],
+            "type": "Point",
+            "country": "Portugal",
+            "transfer_fee": 8000000,
+            "name": "S\u00edlvio"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 8000000,
+            "name": "Mohamed Sissoko"
       },
       {
             "coordinates": [
@@ -1213,15 +955,609 @@
                   "23.634501"
             ],
             "type": "Point",
-            "country": "Mexico"
+            "country": "Mexico",
+            "transfer_fee": 8000000,
+            "name": "Christian Ben\u00edtez"
       },
       {
             "coordinates": [
-                  "-102.552784",
-                  "23.634501"
+                  "-3.435973",
+                  "55.378051"
             ],
             "type": "Point",
-            "country": "Mexico"
+            "country": "England",
+            "transfer_fee": 8000000,
+            "name": "Roger Johnson"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 8000000,
+            "name": "Jonathan de Guzm\u00e1n"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 8000000,
+            "name": "Nolan Roux"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 8000000,
+            "name": "Mat\u00edas Silvestre"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 8000000,
+            "name": "Sebasti\u00e1n Coates"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 7750000,
+            "name": "Ga\u00ebl Clichy"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 7600000,
+            "name": "Fabio Borini"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 7500000,
+            "name": "Kevin-Prince Boateng"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 7500000,
+            "name": "Mamadou Niang"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 7500000,
+            "name": "Simone Pepe"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 7500000,
+            "name": "Pablo Piatti"
+      },
+      {
+            "coordinates": [
+                  "-51.92528",
+                  "-14.235004"
+            ],
+            "type": "Point",
+            "country": "Brazil",
+            "transfer_fee": 7500000,
+            "name": "Lucas Piaz\u00f3n"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 7500000,
+            "name": "Ander Herrera"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 7500000,
+            "name": "Youssef El Arabi"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 7500000,
+            "name": "Felipe Caicedo"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 7500000,
+            "name": "Dentinho"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 7330000,
+            "name": "Maarten Stekelenburg"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 7250000,
+            "name": "Emanuele Giaccherini"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 7000000,
+            "name": "Andr\u00e9 Santos"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 7000000,
+            "name": "K\u00e9vin Constant"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 7000000,
+            "name": "Tim Matavz"
+      },
+      {
+            "coordinates": [
+                  "45.079162",
+                  "23.885942"
+            ],
+            "type": "Point",
+            "country": "Saudi Arabia",
+            "transfer_fee": 7000000,
+            "name": "Thiago Neves"
+      },
+      {
+            "coordinates": [
+                  "105.31875600000001",
+                  "61.52401"
+            ],
+            "type": "Point",
+            "country": "Russia",
+            "transfer_fee": 7000000,
+            "name": "Diego Tardelli"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 6800000,
+            "name": "Scott Dann"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 6750000,
+            "name": "Fernando Muslera"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 6750000,
+            "name": "Eliaquim Mangala"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 6700000,
+            "name": "Diniyar Bilyaletdinov"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 6600000,
+            "name": "Mevl\u00fct Erdinc"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 6600000,
+            "name": "Nikica Jelavic"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 6600000,
+            "name": "Craig Gardner"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 6500000,
+            "name": "Ju-yeong Park"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 6500000,
+            "name": "Alexander Merkel"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 6200000,
+            "name": "Scott Parker"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 6000000,
+            "name": "Borja Valero"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 6000000,
+            "name": "Adil Rami"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 6000000,
+            "name": "Steven Defour"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 6000000,
+            "name": "Dani Parejo"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 6000000,
+            "name": "Nacho Monreal"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 6000000,
+            "name": "Demy de Zeeuw"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 6000000,
+            "name": "Emmanuel Rivi\u00e8re"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 6000000,
+            "name": "Wesley"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 6000000,
+            "name": "Nikola Kalinic"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 6000000,
+            "name": "Nabil Dirar"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 6000000,
+            "name": "Fernando"
+      },
+      {
+            "coordinates": [
+                  "31.16558",
+                  "48.379433"
+            ],
+            "type": "Point",
+            "country": "Ukraine",
+            "transfer_fee": 6000000,
+            "name": "Marcelo Moreno"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 6000000,
+            "name": "Isco"
+      },
+      {
+            "coordinates": [
+                  "138.252924",
+                  "36.204824"
+            ],
+            "type": "Point",
+            "country": "Japan",
+            "transfer_fee": 5800000,
+            "name": "Djibril Ciss\u00e9"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 5800000,
+            "name": "Bobby Zamora"
+      },
+      {
+            "coordinates": [
+                  "138.252924",
+                  "36.204824"
+            ],
+            "type": "Point",
+            "country": "Japan",
+            "transfer_fee": 5800000,
+            "name": "Giovanni Sio"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 5700000,
+            "name": "Mehdi Carcela-Gonz\u00e1lez"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 5650000,
+            "name": "Davide Santon"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 5500000,
+            "name": "Ezequiel Garay"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 5500000,
+            "name": "Rafinha"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 5500000,
+            "name": "Ilkay G\u00fcndogan"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 5500000,
+            "name": "Bruno C\u00e9sar"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 5500000,
+            "name": "Ivan Perisic"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 5500000,
+            "name": "Leroy Fer"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 5300000,
+            "name": "Maxi Moralez"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 5300000,
+            "name": "\u00c9dgar Barreto"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 5300000,
+            "name": "Matt Mills"
       },
       {
             "coordinates": [
@@ -1229,7 +1565,9 @@
                   "51.919438"
             ],
             "type": "Point",
-            "country": "Poland"
+            "country": "Poland",
+            "transfer_fee": 5250000,
+            "name": "Adrian Mierzejewski"
       },
       {
             "coordinates": [
@@ -1237,15 +1575,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 5200000,
+            "name": "Federico Marchetti"
       },
       {
             "coordinates": [
@@ -1253,7 +1585,99 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
+            "country": "England",
+            "transfer_fee": 5100000,
+            "name": "Shane Long"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 5080000,
+            "name": "Ricky van Wolfswinkel"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 5000000,
+            "name": "Alex"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 5000000,
+            "name": "Alou Diarra"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 5000000,
+            "name": "Yohan Cabaye"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 5000000,
+            "name": "Didier Zokora"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 5000000,
+            "name": "Diego Forl\u00e1n"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 5000000,
+            "name": "Mehmet Ekici"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 5000000,
+            "name": "Jos\u00e9 Callej\u00f3n"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 5000000,
+            "name": "Georginio Wijnaldum"
       },
       {
             "coordinates": [
@@ -1261,23 +1685,29 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 5000000,
+            "name": "Djibril Ciss\u00e9"
       },
       {
             "coordinates": [
-                  "35.243322",
-                  "38.963745"
+                  "-3.7492199999999998",
+                  "40.463667"
             ],
             "type": "Point",
-            "country": "Turkey"
+            "country": "Spain",
+            "transfer_fee": 5000000,
+            "name": "Ikechukwu Uche"
       },
       {
             "coordinates": [
-                  "12.56738",
-                  "41.87194"
+                  "5.291266",
+                  "52.132633"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "Netherlands",
+            "transfer_fee": 5000000,
+            "name": "Ahmed Musa"
       },
       {
             "coordinates": [
@@ -1285,23 +1715,19 @@
                   "39.399871999999995"
             ],
             "type": "Point",
-            "country": "Portugal"
+            "country": "Portugal",
+            "transfer_fee": 5000000,
+            "name": "R\u00faben Micael"
       },
       {
             "coordinates": [
-                  "-3.435973",
-                  "55.378051"
+                  "24.96676",
+                  "45.943160999999996"
             ],
             "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
+            "country": "Romania",
+            "transfer_fee": 5000000,
+            "name": "Gabriel Torje"
       },
       {
             "coordinates": [
@@ -1309,7 +1735,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 5000000,
+            "name": "Jonathan"
       },
       {
             "coordinates": [
@@ -1317,79 +1745,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-51.92528",
-                  "-14.235004"
-            ],
-            "type": "Point",
-            "country": "Brazil"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "138.252924",
-                  "36.204824"
-            ],
-            "type": "Point",
-            "country": "Japan"
-      },
-      {
-            "coordinates": [
-                  "5.291266",
-                  "52.132633"
-            ],
-            "type": "Point",
-            "country": "Netherlands"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 5000000,
+            "name": "\u00c9der"
       },
       {
             "coordinates": [
@@ -1397,15 +1755,9 @@
                   "48.379433"
             ],
             "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
+            "country": "Ukraine",
+            "transfer_fee": 5000000,
+            "name": "Ibson"
       },
       {
             "coordinates": [
@@ -1413,87 +1765,19 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 5000000,
+            "name": "Simone Padoin"
       },
       {
             "coordinates": [
-                  "9.501785",
-                  "56.26392"
+                  "105.31875600000001",
+                  "61.52401"
             ],
             "type": "Point",
-            "country": "Denmark"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "4.469936",
-                  "50.503887"
-            ],
-            "type": "Point",
-            "country": "Belgium"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
+            "country": "Russia",
+            "transfer_fee": 5000000,
+            "name": "Sergey Davydov"
       },
       {
             "coordinates": [
@@ -1501,7 +1785,19 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
+            "country": "England",
+            "transfer_fee": 5000000,
+            "name": "Nemanja Matic"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 5000000,
+            "name": "Dudu"
       },
       {
             "coordinates": [
@@ -1509,39 +1805,9 @@
                   "40.463667"
             ],
             "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "5.291266",
-                  "52.132633"
-            ],
-            "type": "Point",
-            "country": "Netherlands"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
+            "country": "Spain",
+            "transfer_fee": 4880000,
+            "name": "Derek Boateng"
       },
       {
             "coordinates": [
@@ -1549,247 +1815,9 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "15.22",
-                  "45.1"
-            ],
-            "type": "Point",
-            "country": "Croatia"
-      },
-      {
-            "coordinates": [
-                  "15.472961999999999",
-                  "49.817492"
-            ],
-            "type": "Point",
-            "country": "Czech Republic"
-      },
-      {
-            "coordinates": [
-                  "15.472961999999999",
-                  "49.817492"
-            ],
-            "type": "Point",
-            "country": "Czech Republic"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "-51.92528",
-                  "-14.235004"
-            ],
-            "type": "Point",
-            "country": "Brazil"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-102.552784",
-                  "23.634501"
-            ],
-            "type": "Point",
-            "country": "Mexico"
-      },
-      {
-            "coordinates": [
-                  "19.145135999999997",
-                  "51.919438"
-            ],
-            "type": "Point",
-            "country": "Poland"
-      },
-      {
-            "coordinates": [
-                  "15.472961999999999",
-                  "49.817492"
-            ],
-            "type": "Point",
-            "country": "Czech Republic"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "35.243322",
-                  "38.963745"
-            ],
-            "type": "Point",
-            "country": "Turkey"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-51.92528",
-                  "-14.235004"
-            ],
-            "type": "Point",
-            "country": "Brazil"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "-102.552784",
-                  "23.634501"
-            ],
-            "type": "Point",
-            "country": "Mexico"
-      },
-      {
-            "coordinates": [
-                  "-3.435973",
-                  "55.378051"
-            ],
-            "type": "Point",
-            "country": "England"
-      },
-      {
-            "coordinates": [
-                  "5.291266",
-                  "52.132633"
-            ],
-            "type": "Point",
-            "country": "Netherlands"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
-            ],
-            "type": "Point",
-            "country": "Germany"
+            "country": "Italy",
+            "transfer_fee": 4860000,
+            "name": "Alessandro Diamanti"
       },
       {
             "coordinates": [
@@ -1797,95 +1825,19 @@
                   "60.128161"
             ],
             "type": "Point",
-            "country": "Sweden"
+            "country": "Sweden",
+            "transfer_fee": 4800000,
+            "name": "Alexander Gerndt"
       },
       {
             "coordinates": [
-                  "10.451526",
-                  "51.165690999999995"
+                  "35.243322",
+                  "38.963745"
             ],
             "type": "Point",
-            "country": "Germany"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "2.213749",
-                  "46.227638"
-            ],
-            "type": "Point",
-            "country": "France"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-51.92528",
-                  "-14.235004"
-            ],
-            "type": "Point",
-            "country": "Brazil"
-      },
-      {
-            "coordinates": [
-                  "-3.7492199999999998",
-                  "40.463667"
-            ],
-            "type": "Point",
-            "country": "Spain"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "-63.616671999999994",
-                  "-38.416097"
-            ],
-            "type": "Point",
-            "country": "Argentina"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
+            "country": "Turkey",
+            "transfer_fee": 4750000,
+            "name": "Serdar Kesimal"
       },
       {
             "coordinates": [
@@ -1893,39 +1845,29 @@
                   "55.378051"
             ],
             "type": "Point",
-            "country": "England"
+            "country": "England",
+            "transfer_fee": 4700000,
+            "name": "Nedum Onuoha"
       },
       {
             "coordinates": [
-                  "4.469936",
-                  "50.503887"
+                  "-3.435973",
+                  "55.378051"
             ],
             "type": "Point",
-            "country": "Belgium"
+            "country": "England",
+            "transfer_fee": 4700000,
+            "name": "Jean Beausejour"
       },
       {
             "coordinates": [
-                  "-74.297333",
-                  "4.570868"
+                  "-3.7492199999999998",
+                  "40.463667"
             ],
             "type": "Point",
-            "country": "Colombia"
-      },
-      {
-            "coordinates": [
-                  "12.56738",
-                  "41.87194"
-            ],
-            "type": "Point",
-            "country": "Italy"
-      },
-      {
-            "coordinates": [
-                  "31.16558",
-                  "48.379433"
-            ],
-            "type": "Point",
-            "country": "Ukraine"
+            "country": "Spain",
+            "transfer_fee": 4600000,
+            "name": "Oriol Romeu"
       },
       {
             "coordinates": [
@@ -1933,7 +1875,69 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 4500000,
+            "name": "Yuto Nagatomo"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 4500000,
+            "name": "Shaun Wright-Phillips"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 4500000,
+            "name": "Alan Hutton"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 4500000,
+            "name": "Achille Eman\u00e1"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 4500000,
+            "name": "John O'Shea"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 4500000,
+            "name": "Jaj\u00e1"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 4500000,
+            "name": "Vedad Ibisevic"
       },
       {
             "coordinates": [
@@ -1941,7 +1945,39 @@
                   "41.87194"
             ],
             "type": "Point",
-            "country": "Italy"
+            "country": "Italy",
+            "transfer_fee": 4500000,
+            "name": "Andrea Lazzari"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 4500000,
+            "name": "Manu del Moral"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 4500000,
+            "name": "David N'Gog"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 4500000,
+            "name": "Cameron Jerome"
       },
       {
             "coordinates": [
@@ -1949,7 +1985,9 @@
                   "52.132633"
             ],
             "type": "Point",
-            "country": "Netherlands"
+            "country": "Netherlands",
+            "transfer_fee": 4500000,
+            "name": "Kevin Strootman"
       },
       {
             "coordinates": [
@@ -1957,6 +1995,498 @@
                   "48.379433"
             ],
             "type": "Point",
-            "country": "Ukraine"
+            "country": "Ukraine",
+            "transfer_fee": 4500000,
+            "name": "Pape Diakhat\u00e9"
+      },
+      {
+            "coordinates": [
+                  "4.469936",
+                  "50.503887"
+            ],
+            "type": "Point",
+            "country": "Belgium",
+            "transfer_fee": 4500000,
+            "name": "Jonathan Legear"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 4500000,
+            "name": "Z\u00e9 Love"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 4500000,
+            "name": "Nacer Barazite"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 4500000,
+            "name": "Jos\u00e9 \u00c1ngel"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 4500000,
+            "name": "Diego Buonanotte"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 4500000,
+            "name": "Franco V\u00e1zquez"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 4300000,
+            "name": "Ali Al-Habsi"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 4200000,
+            "name": "Joaqu\u00edn"
+      },
+      {
+            "coordinates": [
+                  "45.079162",
+                  "23.885942"
+            ],
+            "type": "Point",
+            "country": "Saudi Arabia",
+            "transfer_fee": 4200000,
+            "name": "Mirel Radoi"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 4100000,
+            "name": "Emiliano Viviano"
+      },
+      {
+            "coordinates": [
+                  "138.252924",
+                  "36.204824"
+            ],
+            "type": "Point",
+            "country": "Japan",
+            "transfer_fee": 4000000,
+            "name": "Vieirinha"
+      },
+      {
+            "coordinates": [
+                  "31.16558",
+                  "48.379433"
+            ],
+            "type": "Point",
+            "country": "Ukraine",
+            "transfer_fee": 4000000,
+            "name": "J\u00e1dson"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 4000000,
+            "name": "Abdoulay Konko"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 4000000,
+            "name": "Julien F\u00e9ret"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 4000000,
+            "name": "Nelson Valdez"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 4000000,
+            "name": "Ivo Ilicevic"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 4000000,
+            "name": "Sokratis"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 4000000,
+            "name": "Mustafa Pektemek"
+      },
+      {
+            "coordinates": [
+                  "31.16558",
+                  "48.379433"
+            ],
+            "type": "Point",
+            "country": "Ukraine",
+            "transfer_fee": 4000000,
+            "name": "Vladimir Gabulov"
+      },
+      {
+            "coordinates": [
+                  "5.291266",
+                  "52.132633"
+            ],
+            "type": "Point",
+            "country": "Netherlands",
+            "transfer_fee": 4000000,
+            "name": "Kolbeinn Sigth\u00f3rsson"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 4000000,
+            "name": "Marlos"
+      },
+      {
+            "coordinates": [
+                  "138.252924",
+                  "36.204824"
+            ],
+            "type": "Point",
+            "country": "Japan",
+            "transfer_fee": 4000000,
+            "name": "Henri Bienvenu"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 4000000,
+            "name": "Gabriel Silva"
+      },
+      {
+            "coordinates": [
+                  "-63.616671999999994",
+                  "-38.416097"
+            ],
+            "type": "Point",
+            "country": "Argentina",
+            "transfer_fee": 4000000,
+            "name": "Santiago Garc\u00eda"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 4000000,
+            "name": "Alan Patrick"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 4000000,
+            "name": "Marco Rossi"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 3900000,
+            "name": "Salvatore Sirigu"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 3900000,
+            "name": "Danny Graham"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 3850000,
+            "name": "Ryan Bennett"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 3800000,
+            "name": "Umut Bulut"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 3800000,
+            "name": "Christian Fuchs"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 3800000,
+            "name": "Juan Jesus"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 3790000,
+            "name": "F\u00e1bio Rochemback"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 3750000,
+            "name": "Robbie Keane"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 3750000,
+            "name": "Shay Given"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 3750000,
+            "name": "Jeffren"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 3750000,
+            "name": "Jamie O'Hara"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 3750000,
+            "name": "Marco Motta"
+      },
+      {
+            "coordinates": [
+                  "-51.92528",
+                  "-14.235004"
+            ],
+            "type": "Point",
+            "country": "Brazil",
+            "transfer_fee": 3750000,
+            "name": "Paulo Henrique"
+      },
+      {
+            "coordinates": [
+                  "35.243322",
+                  "38.963745"
+            ],
+            "type": "Point",
+            "country": "Turkey",
+            "transfer_fee": 3600000,
+            "name": "Volkan Sen"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 3600000,
+            "name": "Marvin Sordell"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 3560000,
+            "name": "Kl\u00e9ber"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 3500000,
+            "name": "Jos\u00e9 Antonio Reyes"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 3500000,
+            "name": "Diego Capel"
+      },
+      {
+            "coordinates": [
+                  "-3.7492199999999998",
+                  "40.463667"
+            ],
+            "type": "Point",
+            "country": "Spain",
+            "transfer_fee": 3500000,
+            "name": "Maxwell"
+      },
+      {
+            "coordinates": [
+                  "12.56738",
+                  "41.87194"
+            ],
+            "type": "Point",
+            "country": "Italy",
+            "transfer_fee": 3500000,
+            "name": "Barreto"
+      },
+      {
+            "coordinates": [
+                  "-3.435973",
+                  "55.378051"
+            ],
+            "type": "Point",
+            "country": "England",
+            "transfer_fee": 3500000,
+            "name": "Emmanuel Ebou\u00e9"
+      },
+      {
+            "coordinates": [
+                  "2.213749",
+                  "46.227638"
+            ],
+            "type": "Point",
+            "country": "France",
+            "transfer_fee": 3500000,
+            "name": "Nicolas N'Koulou"
+      },
+      {
+            "coordinates": [
+                  "10.451526",
+                  "51.165690999999995"
+            ],
+            "type": "Point",
+            "country": "Germany",
+            "transfer_fee": 3500000,
+            "name": "Jonathan Pitroipa"
       }
 ]

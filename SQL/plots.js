@@ -5,24 +5,24 @@ d3.json("samples.json").then((importedData) => {
   var data = importedData;
 
   // // Sort the data array by using the greekSearchResults value.
-  // data.sort(function(a, b) {
-  //   return parseFloat(b.greekSearchResults) - parseFloat(a.greekSearchResults);
-  // });
+  data.sort(function(a, b) {
+    return parseFloat(b.transfer_fee) - parseFloat(a.transfer_fee);
+  });
 
   // Slice the first 10 objects for plotting.
-  // data = data.slice(0, 10);
+  data = data.slice(0, 10);
 
   // Reverse the array because of the Plotly defaults.
   data = data.reverse();
 
   // Trace1 for the Greek data.
   var trace1 = {
-    x: data.map(row => row.country.count),
-    y: data.map(row => row.country),
-    text: data.map(row => row.country),
+    x: data.map(row => row.country),
+    y: data.map(row => row.transfer_fee),
+    text: data.map(row => row.name),
     name: "Greek",
     type: "bar",
-    orientation: "h"
+    // orientation: "h"
   };
 
   // Data

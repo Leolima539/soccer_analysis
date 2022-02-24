@@ -47,28 +47,26 @@ user_input = input("What season do you want to check? ")
 # @app.route("/")
 # def home():
 #     return render_template("index.html")
-@app.route('/', methods=['GET', 'POST'])
-def index():
-    names = get_names(ACTORS)
 
-@app.route("/transfer")
+@app.route("/")
 def from_coordinates():
     session = Session(engine)
 
     
-    results = session.query(Locations.latitude,Locations.longitude,Locations.country, Transfers.transfer_fee, Transfers.name).\
+    results = session.query(Locations.latitude,Locations.longitude,Locations.country).\
         join(Leagues, Leagues.country == Locations.country).\
             join(Transfers, Transfers.league_from == Leagues.league_name).\
                 filter(Transfers.season == user_input)
     session.close()
     res = []
-    for latitude, longitude, country, transfer_fee, name in results:
+    for latitude, longitude, country in results:
         dict1 = {}
         dict1["coordinates"] = longitude, latitude
         dict1["type"] = 'Point'
         dict1["country"] = country
-        dict1["transfer_fee"] = transfer_fee
-        dict1["name"] = name
+
+
+
         res.append(dict1)
     trans_json = open("myfile.geojson", "w")
     json.dump(res, trans_json, indent=6)
